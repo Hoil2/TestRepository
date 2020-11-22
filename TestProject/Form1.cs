@@ -21,10 +21,5 @@ namespace TestProject
         {
 
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("메시지박스 출력");
-        }
     }
 }
