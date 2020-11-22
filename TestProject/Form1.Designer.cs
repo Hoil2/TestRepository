@@ -34,7 +34,7 @@
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.열기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.저장ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -90,21 +90,21 @@
             this.저장ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.저장ToolStripMenuItem.Text = "저장";
             // 
-            // label3
+            // label2
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(99, 255);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(95, 12);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "repos2에서 작업";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(124, 203);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(89, 12);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "repos에서 작업";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
@@ -126,7 +126,7 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem 열기ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 저장ToolStripMenuItem;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }
 
