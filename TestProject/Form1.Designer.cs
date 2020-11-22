@@ -97,7 +97,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(76, 12);
             this.label3.TabIndex = 4;
-            this.label3.Text = "수정 ver 1.00";
+            this.label3.Text = "수정 ver 1.02";
             // 
             // Form1
             // 
